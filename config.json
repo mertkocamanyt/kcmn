@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "Böyle ses sistemi yaptırmak için; Endléss#2784",
+        "GUILD_ID": "680491329238859875",
+        "VOICE_CHANNEL": "772426968749703188",
+        "MIN_STAFF_ROLE": "797559365360025631"
+    },
+    "FILES": {
+        "WELCOME": "https://cdn.glitch.com/6cad200f-9a6c-49cc-b63e-228e188c4fee%2Fwelcome.mp3?v=1610296236685",
+        "STAFF": "default_files/<staff-voice>.mp3"
+    },
+    "TOKEN": "Nzk3ODc0OTcxNDkzNTMxNjQ4.X_s0-Q.dUu-V8_cMmVI-QyqC6NAdL4NWXI"
+}
